@@ -19,3 +19,6 @@ This application is based on a university timetable where an admin can schedule 
 * Java
 * Kotlin
 * Scala
+
+  
+Added the file "COMP1815 - 001086733 - Group 5.pdf", which was submitted as part of the project and explained how we developed it.
